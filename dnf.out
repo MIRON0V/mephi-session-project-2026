@@ -1,0 +1,6 @@
+ID Командная строка                     Дата и время        Действие(я) Изменено
+ 5 dnf install -y pamtester             2026-10-29 19:20:04                    1
+ 4 dnf install -y nginx libcap-ng-utils 2026-10-29 00:03:03                    3
+ 3 dnf install -y nginx                 2026-10-28 23:40:27                    8
+ 2 dnf upgrade -y                       2026-10-28 23:34:50                  846
+ 1                                      2026-10-28 23:07:12                  792
